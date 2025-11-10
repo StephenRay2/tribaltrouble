@@ -1,0 +1,204 @@
+Buildfile: c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\tt\build.xml
+
+init:
+
+compile-common:
+
+init:
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+textures:
+
+init:
+
+compile-common:
+
+init:
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+convert:
+
+init:
+
+compile-common:
+
+init:
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+convert:
+
+init:
+
+compile-common:
+
+init:
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+convert:
+
+init:
+
+compile-common:
+
+init:
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+convert:
+
+init:
+
+compile-common:
+
+init:
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+convert:
+
+init:
+
+compile-common:
+
+init:
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+convert:
+
+init:
+
+compile-common:
+
+init:
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+convert:
+
+geometry:
+
+init:
+
+compile-common:
+
+init:
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+compiledeps:
+
+compile:
+    [javac] c:\Users\steph\Documents\CodeProjects\TribalTroubleStephensVersion\tribaltrouble\common\common.xml:37: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+geometry:
+
+revision:
+
+rundeps:
+
+dorundeps:
+
+run:
+     [java] Starting game....
+     [java] ********** Running tt **********
+     [java] Writing log files in C:\Users\steph\TribalTrouble\logs\1762739861344
+     [java] Logging to C:\Users\steph\TribalTrouble\logs\1762739861344\event.log
+     [java] Starting bug reporter ...
+     [java] Event log dir: C:\Users\steph\TribalTrouble\logs\1762739848146
+     [java] Bug reporter completedjava.lang.UnsatisfiedLinkError: no lwjgl in java.library.path
+     [java] revision = 0
+     [java] 
+     [java] os_name = 'Windows 10'	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1860)
+     [java] os_arch = 'x86'
+     [java] 
+     [java] os_version = '10.0'	at java.lang.Runtime.loadLibrary0(Runtime.java:843)
+     [java] 
+     [java] java_version = '1.8.0_462-462'	at java.lang.System.loadLibrary(System.java:1136)
+     [java] java_vendor = 'OpenLogic-OpenJDK'
+     [java] 
+     [java] total_mem = '72876032'	at org.lwjgl.Sys$1.run(Sys.java:75)
+     [java] 
+     [java] 	at java.security.AccessController.doPrivileged(Native Method)
+     [java] 	at org.lwjgl.Sys.doLoadLibrary(Sys.java:68)
+     [java] 	at org.lwjgl.Sys.loadLibrary(Sys.java:84)
+     [java] 	at org.lwjgl.Sys.<clinit>(Sys.java:101)
+     [java] 	at org.lwjgl.openal.AL.<clinit>(AL.java:59)
+     [java] 	at com.oddlabs.tt.render.Renderer.initNative(Renderer.java:743)
+     [java] 	at com.oddlabs.tt.render.Renderer.run(Renderer.java:413)
+     [java] 	at com.oddlabs.tt.render.Renderer.runGame(Renderer.java:186)
+     [java] 	at com.oddlabs.tt.Main.main(Main.java:40)
+
+BUILD SUCCESSFUL
+Total time: 4 seconds

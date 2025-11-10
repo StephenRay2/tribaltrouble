@@ -31,7 +31,7 @@ public final strictfp class SaveDeterministic extends Deterministic {
 
 	private final void flushBuffer() {
 		try {
-			buffer.flip();
+			((java.nio.Buffer)buffer).flip();
 			while (buffer.hasRemaining()) {
 				total_bytes_written += channel.write(buffer);
 			}

@@ -141,11 +141,7 @@
 	</target>
 
 	<target name="revision">
-		<exec executable="hg" output="${revision_number_file}">
-			<arg value="tip"/>
-			<arg value="--template"/>
-			<arg value="{rev}"/>
-		</exec>
+		<echo message="0" file="${revision_number_file}"/>
 	</target>
 
 	<target name="proceduraltest" depends="compile">
